@@ -2,7 +2,7 @@
 
 ### and I'm a high school student experimenting with code.
 
-<img src="https://github.com/ryzetech/ryzetech/blob/main/RyzeFox.png" alt="my fursona" style="width:500px;height:500px;">
+![my fursona](https://github.com/ryzetech/ryzetech/blob/main/RyzeFoxSmoll.png)
 
 🔭 I’m currently working on:
 - [Mission Control - a private Discord Bot](https://github.com/ryzetech/Mission-Control)
@@ -26,7 +26,7 @@
 
 🙌 Friends you should check out: @ArcticSpaceFox and @Veoriss 💚
 
-![Old ryze logo](https://ryzetech.live/image.png)
+![Old ryze logo](https://github.com/ryzetech/ryzetech/blob/main/image.png)
 
 <!--
 **ryzetech/ryzetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
