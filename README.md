@@ -24,7 +24,7 @@
 
 ⚡ Fun fact: I'm also sometimes live on [Twitch](https://twitch.ryzetech.live/), coding in English and in German.
 
-🙌 Friends you should check out: @ArcticSpaceFox and @Veoriss 💚
+🙌 Friends you should check out: [@ArcticSpaceFox] and [@Veoriss] 💚
 
 ![Old ryze logo](https://github.com/ryzetech/ryzetech/blob/main/image.png)
 
