@@ -2,7 +2,7 @@
 
 ### and I'm a high school student experimenting with code.
 
-![my fursona](https://github.com/ryzetech/ryzetech/blob/main/RyzeFox.png)
+<img src="https://github.com/ryzetech/ryzetech/blob/main/RyzeFox.png" alt="my fursona" style="width:500px;height:500px;">
 
 🔭 I’m currently working on:
 - [Mission Control - a private Discord Bot](https://github.com/ryzetech/Mission-Control)
