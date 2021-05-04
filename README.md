@@ -1,4 +1,27 @@
-### Hi there 👋
+# Hello there, 👋 my name is Max
+
+### and I'm a high school student experimenting with code.
+
+🔭 I’m currently working on:
+- [Mission Control - a private Discord Bot](https://github.com/ryzetech/Mission-Control)
+- [Schödinger - a Discord Bot just for one server (because I need money lmao)](https://schroedinger.ryzetech.live/)
+- more to come soon!
+
+🌱 I’m currently learning:
+- database stuff (like Prisma)
+- collaborating with others
+- organization
+
+📫 How to reach me:
+- Discord: **ryzetech#9901**
+- Twitter: [@ryzetechlive](https://twitter.ryzetech.live/)
+- Website: [ryzetech.live](https://ryzetech.live/)
+###### You can contact me in German (native language) or in English!
+
+
+😄 Pronouns: he/him
+
+⚡ Fun fact: I'm also sometimes live on [Twitch](https://twitch.ryzetech.live/), coding in English and in German.
 
 <!--
 **ryzetech/ryzetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
