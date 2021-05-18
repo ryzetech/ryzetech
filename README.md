@@ -28,8 +28,8 @@
 
 ![Old ryze logo](https://github.com/ryzetech/ryzetech/blob/main/image.png)
 
-[![ryzetech's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryzetech&show_icons=true&theme=chartreuse-dark)
-[![ryzetech's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzetech&layout=compact&theme=chartreuse-dark)
+![ryzetech's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryzetech&show_icons=true&theme=chartreuse-dark)
+![ryzetech's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ryzetech&layout=compact&theme=chartreuse-dark)
 
 <!--
 **ryzetech/ryzetech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
