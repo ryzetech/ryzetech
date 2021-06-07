@@ -15,7 +15,7 @@
 - organization
 
 📫 How to reach me:
-- Discord: **ryzetech#9901**
+- Discord: [ryzetech#9901](https://profile.ryzetech.live/)
 - Twitter: [@ryzetechlive](https://twitter.ryzetech.live/)
 - Website: [ryzetech.live](https://ryzetech.live/)
 ###### You can contact me in German (native language) or in English!
