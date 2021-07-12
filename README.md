@@ -6,8 +6,7 @@
 
 🔭 I’m currently working on:
 - [Mission Control - a private Discord Bot](https://github.com/ryzetech/Mission-Control)
-- [Schödinger - a Discord Bot just for one server (because I need money lmao)](https://schroedinger.ryzetech.live/)
-- more to come soon!
+- [HTTP Status Foxes - a status code site like http.cat](https://httpfox.ryzetech.live/)
 
 🌱 I’m currently learning:
 - database stuff (like Prisma)
