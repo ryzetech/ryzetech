@@ -29,12 +29,15 @@
 
 ##### Specs
 ###### Workstation
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)\n
-![GPU](https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)\n
+![CPU](https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
+![GPU](https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+
 ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ###### Laptop
-![CPU](https://img.shields.io/badge/Intel-Dual_Core_Potato-0071C5?style=for-the-badge&logo=intel&logoColor=white)\n
+![CPU](https://img.shields.io/badge/Intel-Dual_Core_Potato-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
 ![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 #### Other Stuff
