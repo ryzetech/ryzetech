@@ -4,6 +4,15 @@
 
 ![my fursona](https://github.com/ryzetech/ryzetech/blob/main/RyzeFoxSmoll.png)
 
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+Drop in! My Community Discord:
+[![Discord Server Badge](https://img.shields.io/discord/863684433693245500?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)](https://discord.gg/PFwzfQK6RW)
+
+
 🔭 I’m currently working on:
 - [Mission Control - a private Discord Bot](https://github.com/ryzetech/Mission-Control)
 - [HTTP Status Foxes - a status code site like http.cat](https://httpfox.ryzetech.live/)
@@ -14,8 +23,8 @@
 - organization
 
 📫 How to reach me:
-- Discord: [ryzetech#9901](https://profile.ryzetech.live/)
-- Twitter: [@ryzetechlive](https://twitter.ryzetech.live/)
+- [![Discord: ryzetech#9901](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://profile.ryzetech.live/)
+- [![Twitter: [@ryzetechlive](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.ryzetech.live/)
 - Website: [ryzetech.live](https://ryzetech.live/)
 ###### You can contact me in German (native language) or in English!
 
