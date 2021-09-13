@@ -9,8 +9,7 @@
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Drop in! My Community Discord:
-[![Discord Server Badge](https://img.shields.io/discord/863684433693245500?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)](https://discord.gg/PFwzfQK6RW)
+[![Discord Server Badge](https://img.shields.io/discord/863684433693245500?label=Join%20my%20Connunty%20Discord%21&logo=Discord&logoColor=white&style=for-the-badge)](https://discord.gg/PFwzfQK6RW)
 
 
 🔭 I’m currently working on:
@@ -23,9 +22,9 @@ Drop in! My Community Discord:
 - organization
 
 📫 How to reach me:
-- [![Discord: ryzetech#9901](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://profile.ryzetech.live/)
-- [![Twitter: [@ryzetechlive](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.ryzetech.live/)
-- Website: [ryzetech.live](https://ryzetech.live/)
+- [![Discord Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://profile.ryzetech.live/)
+- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.ryzetech.live/)
+- Website: ![ryzetech.live](https://ryzetech.live/)
 ###### You can contact me in German (native language) or in English!
 
 😄 Pronouns: he/him
@@ -38,16 +37,13 @@ Drop in! My Community Discord:
 
 ##### Specs
 ###### Workstation
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
-![GPU](https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
-![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+- ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+- ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ###### Laptop
-![CPU](https://img.shields.io/badge/Intel-Dual_Core_Potato-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-
-![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- ![CPU](https://img.shields.io/badge/Intel-Dual_Core_Potato-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+- ![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 #### Other Stuff
 ![ryzetech visitor counter](https://komarev.com/ghpvc/?username=ryzetech&color=green&style=flat-square&label=Profile+Boops)
