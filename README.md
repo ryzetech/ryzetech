@@ -24,7 +24,7 @@
 📫 How to reach me:
 - [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://profile.ryzetech.live/)
 - [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.ryzetech.live/)
-- Website: ![ryzetech.live](https://ryzetech.live/)
+- Website: [ryzetech.live](https://ryzetech.live/)
 ###### You can contact me in German (native language) or in English!
 
 😄 Pronouns: he/him
