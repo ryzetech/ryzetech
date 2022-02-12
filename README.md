@@ -13,8 +13,9 @@
 
 
 🔭 I’m currently working on:
-- [Mission Control - a private Discord Bot](https://github.com/ryzetech/Mission-Control)
+- [FinnleyTheBot - a Twitch bot for my streams with various capabilities](https://github.com/ryzetech/finnleythebot)
 - [HTTP Status Foxes - a status code site like http.cat](https://httpfox.ryzetech.live/)
+- [\[HOLD] Mission Control - a private Discord Bot](https://github.com/ryzetech/Mission-Control)
 
 🌱 I’m currently learning:
 - database stuff (like Prisma)
