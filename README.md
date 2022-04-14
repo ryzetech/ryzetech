@@ -15,12 +15,9 @@
 🔭 I’m currently working on:
 - [FinnleyTheBot - a Twitch bot for my streams with various capabilities](https://github.com/ryzetech/finnleythebot)
 - [HTTP Status Foxes - a status code site like http.cat](https://httpfox.ryzetech.live/)
-- [ [HOLD] Mission Control - a private Discord Bot](https://github.com/ryzetech/Mission-Control)
 
 🌱 I’m currently learning:
-- database stuff (like Prisma)
-- collaborating with others
-- organization
+- the wonderful difficulties of vite.js
 
 📫 How to reach me:
 - [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://profile.ryzetech.live/)
@@ -32,19 +29,17 @@
 
 ⚡ Fun fact: I'm also sometimes live on [Twitch](https://twitch.ryzetech.live/), coding in English and in German.
 
-🙌 Friends you should check out: [ArcticSpaceFox](https://github.com/ArcticSpaceFox) and [Veoriss](https://github.com/Veoriss) 💚
-
-![Old ryze logo](https://github.com/ryzetech/ryzetech/blob/main/image.png)
+🙌 Friends you should check out: [ArcticSpaceFox](https://github.com/ArcticSpaceFox) and [SteffTek](https://github.com/SteffTek) 💚
 
 ##### Specs
 ###### Workstation
 - ![CPU](https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 - ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-- ![OS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+- ![OS](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-###### Laptop
-- ![CPU](https://img.shields.io/badge/Intel-Dual_Core_Potato-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-- ![OS](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+###### Mobile Beast
+- ![CPU](https://img.shields.io/badge/Intel-Core_i5--1130G7-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+- ![OS](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #### Other Stuff
 ![ryzetech visitor counter](https://komarev.com/ghpvc/?username=ryzetech&color=green&style=flat-square&label=Profile+Boops)
