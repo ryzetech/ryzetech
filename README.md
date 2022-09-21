@@ -9,12 +9,13 @@
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-[![Discord Server Badge](https://img.shields.io/discord/863684433693245500?label=Join%20my%20Connunty%20Discord%21&logo=Discord&logoColor=white&style=for-the-badge)](https://discord.gg/PFwzfQK6RW)
+[![Discord Server Badge](https://img.shields.io/discord/863684433693245500?label=Join%20my%20Communty%20Discord%21&logo=Discord&logoColor=white&style=for-the-badge)](https://discord.gg/PFwzfQK6RW)
 
 
 🔭 I’m currently working on:
+- [Wer Wird Pogchamp? - a german live gameshow like "Who wants to be a Millionaire?"](https://werwirdpogchamp.de)
+- [Mission Control v2 - a Discord bot for a community server](https://github.com/ryzetech/Mission-Control-v2)
 - [FinnleyTheBot - a Twitch bot for my streams with various capabilities](https://github.com/ryzetech/finnleythebot)
-- [HTTP Status Foxes - a status code site like http.cat](https://httpfox.ryzetech.live/)
 
 🌱 I’m currently learning:
 - the wonderful difficulties of vite.js
