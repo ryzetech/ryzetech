@@ -13,6 +13,7 @@
 
 
 🔭 I’m currently working on:
+- [Spellic - a 2.5D shooter with magic!](https://github.com/Spellic-Dev)
 - [Wer Wird Pogchamp? - a german live gameshow like "Who wants to be a Millionaire?"](https://werwirdpogchamp.de)
 - [Mission Control v2 - a Discord bot for a community server](https://github.com/ryzetech/Mission-Control-v2)
 - [FinnleyTheBot - a Twitch bot for my streams with various capabilities](https://github.com/ryzetech/finnleythebot)
