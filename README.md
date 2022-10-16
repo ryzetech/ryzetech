@@ -2,8 +2,6 @@
 
 ### and I'm a high school student experimenting with code.
 
-![my fursona](https://github.com/ryzetech/ryzetech/blob/main/RyzeFoxSmoll.png)
-
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -19,7 +17,10 @@
 - [FinnleyTheBot - a Twitch bot for my streams with various capabilities](https://github.com/ryzetech/finnleythebot)
 
 🌱 I’m currently learning:
-- the wonderful difficulties of vite.js
+- how to manage my messed up life
+
+👯 I’m looking to collaborate on
+- all kinds of JavaScript projects with a lot of API-juggling, primarily Discord and Twitch bots
 
 📫 How to reach me:
 - [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://profile.ryzetech.live/)
