@@ -8,12 +8,12 @@
   <img src="img/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
   <img src="img/nodejs_larger.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
 <!--  <img src="img/java.svg" alt="java" style="vertical-align:top; margin:6px 4px"> -->
-  <img src="img/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+<!-- <img src="img/python.svg" alt="python" style="vertical-align:top; margin:6px 4px"> -->
   <br/>
   <img src="img/prisma.svg" alt="prisma" style="vertical-align:top; margin:6px 4px">
   <br/>
   <img src="img/visualstudio_code.svg" alt="visual studio code" style="vertical-align:top; margin:6px 4px">
-  <img src="img/jetbrains_intellij.svg" alt="jetbrains intellij" style="vertical-align:top; margin:6px 4px">
+<!-- <img src="img/jetbrains_intellij.svg" alt="jetbrains intellij" style="vertical-align:top; margin:6px 4px"> -->
   <img src="img/bootstrapstudio.svg" alt="bootstrap studio" style="vertical-align:top; margin:6px 4px">
 </p>
 
@@ -37,7 +37,7 @@
 -->
 
 **🌱 I’m currently learning:**
-- how to manage my messed up life
+- collaboration and Azure Functions 🚀
 
 **👯 I’m looking to collaborate on**
 - all kinds of JavaScript projects with a lot of API-juggling, primarily Discord and Twitch bots
@@ -45,7 +45,6 @@
 **📫 How to reach me:**  
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://profile.ryzetech.live/)
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.ryzetech.live/)  -->
-[![Website Badge](https://img.shields.io/website?down_message=ryzetech.live%20%5Bdown%5D&style=for-the-badge&up_message=ryzetech.live&url=https%3A%2F%2Fryzetech.live%2F)](https://ryzetech.live/)
 
 **You can contact me in 🇩🇪 German (native language) or in 🇺🇸 🇬🇧 English!**
 
