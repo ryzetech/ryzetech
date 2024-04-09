@@ -1,6 +1,6 @@
 # Hello there, 👋 my name is Max
 
-### and I'm a high school student experimenting with code.
+### and I'm a novice dev and photographer.
 
 #### 🛠️ With this toolbelt...
 
@@ -27,17 +27,19 @@
 </p>
 
 **🔭 I’m currently working on:**
-- nothing particular... currently healing from burnout
+- A service sending parcel delivery updates to a webhook
+- [Spellic - a 2.5D shooter with magic!](https://github.com/Spellic-Dev)
 <!--
 - [CiderWS - a JavaScript wrapper for the Cider WebSocket API](https://github.com/ryzetech/CiderWS)
-- [Spellic - a 2.5D shooter with magic!](https://github.com/Spellic-Dev)
 - [Wer Wird Pogchamp? - a german live gameshow like "Who wants to be a Millionaire?"](https://werwirdpogchamp.de)
 - [Mission Control v2 - a Discord bot for a community server](https://github.com/ryzetech/Mission-Control-v2)
 - [FinnleyTheBot - a Twitch bot for my streams with various capabilities](https://github.com/ryzetech/finnleythebot)
 -->
 
 **🌱 I’m currently learning:**
-- collaboration and Azure Functions 🚀
+- collaboration and Cloudflare Workers 🚀
+- kdenlive 🎥
+- Telegram bot building 🤖
 
 **👯 I’m looking to collaborate on**
 - all kinds of JavaScript projects with a lot of API-juggling, primarily Discord and Twitch bots
