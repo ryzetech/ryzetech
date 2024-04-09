@@ -45,7 +45,9 @@
 - all kinds of JavaScript projects with a lot of API-juggling, primarily Discord and Twitch bots
 
 **📫 How to reach me:**  
-[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://profile.ryzetech.live/)
+[![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/373135347791560706)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/finnleyfox)
+
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.ryzetech.live/)  -->
 
 **You can contact me in 🇩🇪 German (native language) or in 🇺🇸 🇬🇧 English!**
