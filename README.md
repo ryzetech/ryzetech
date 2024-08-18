@@ -1,6 +1,6 @@
 # Hello there, 👋 my name is Max
 
-### and I'm a novice dev and photographer.
+### and I'm a novice dev, Proxmox admin, and photographer.
 
 #### 🛠️ With this toolbelt...
 
@@ -27,7 +27,7 @@
 </p>
 
 **🔭 I’m currently working on:**
-- A service sending parcel delivery updates to a webhook
+- [Cider4OBS - a web client for showing what you're listening to!](https://github.com/ryzetech/cider4obs/)
 - [Spellic - a 2.5D shooter with magic!](https://github.com/Spellic-Dev)
 <!--
 - [CiderWS - a JavaScript wrapper for the Cider WebSocket API](https://github.com/ryzetech/CiderWS)
@@ -54,9 +54,9 @@
 
 **😄 Pronouns:** he / him
 
-<!-- ⚡ Fun fact: I'm also sometimes live on [Twitch](https://twitch.ryzetech.live/), coding in English and in German. -->
-
+<!--
 **🙌 Friends you should check out:** [ArcticSpaceFox](https://github.com/ArcticSpaceFox) and [SteffTek](https://github.com/SteffTek) 💚
+-->
 
 <!--
 Specs
