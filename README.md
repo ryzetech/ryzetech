@@ -1,4 +1,4 @@
-# Hello there, 👋 my name is Max
+# Hello there, 👋 my name is Finnley
 
 ### and I'm a novice dev, Proxmox admin, and photographer.
 
@@ -27,19 +27,13 @@
 </p>
 
 **🔭 I’m currently working on:**
+- [FXFurTrack - embed FurTrack media everywhere... fast!](https://fxfurtrack.com)
 - [Cider4OBS - a web client for showing what you're listening to!](https://github.com/ryzetech/cider4obs/)
-- [Spellic - a 2.5D shooter with magic!](https://github.com/Spellic-Dev)
-<!--
-- [CiderWS - a JavaScript wrapper for the Cider WebSocket API](https://github.com/ryzetech/CiderWS)
-- [Wer Wird Pogchamp? - a german live gameshow like "Who wants to be a Millionaire?"](https://werwirdpogchamp.de)
-- [Mission Control v2 - a Discord bot for a community server](https://github.com/ryzetech/Mission-Control-v2)
-- [FinnleyTheBot - a Twitch bot for my streams with various capabilities](https://github.com/ryzetech/finnleythebot)
--->
+- Nightlife - a late night show hosted on Twitch (more coming soon!)
 
 **🌱 I’m currently learning:**
-- collaboration and Cloudflare Workers 🚀
-- kdenlive 🎥
-- Telegram bot building 🤖
+- Cloudflare Workers ⛅
+- Vue.js
 
 **👯 I’m looking to collaborate on**
 - all kinds of JavaScript projects with a lot of API-juggling, primarily Discord and Twitch bots
@@ -47,6 +41,7 @@
 **📫 How to reach me:**  
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/373135347791560706)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/finnleyfox)
+[![Mastodon Badge](https://img.shields.io/badge/Mastodon-534d77?style=for-the-badge&logo=mastodon&logoColor=white)](https://ice.finnley.dev/@finn)
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.ryzetech.live/)  -->
 
@@ -56,15 +51,6 @@
 
 <!--
 **🙌 Friends you should check out:** [ArcticSpaceFox](https://github.com/ArcticSpaceFox) and [SteffTek](https://github.com/SteffTek) 💚
--->
-
-<!--
-Specs
-Workstation
-![CPU](https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![OS](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-###### Mobile Beast
-![CPU](https://img.shields.io/badge/Intel-Core_i5--1130G7-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![OS](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 -->
 
 #### Other Stuff
